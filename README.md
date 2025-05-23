@@ -102,5 +102,7 @@ style.css: This stylesheet defines the visual presentation of your application. 
 Bootstrap Integration: Leverages Bootstrap's grid system for responsive layout management, ensuring the application looks good on various screen sizes.
 Media Queries: Contains additional custom media queries to provide tailored styling for different devices and screen resolutions, enhancing the overall user experience.
 https://github.com/satvibulgundi15/responsive-property-listing/blob/main/properties.png
+https://github.com/satvibulgundi15/responsive-property-listing/blob/main/ui%20(2).png
+
 
 
