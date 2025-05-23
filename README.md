@@ -103,6 +103,6 @@ Bootstrap Integration: Leverages Bootstrap's grid system for responsive layout m
 Media Queries: Contains additional custom media queries to provide tailored styling for different devices and screen resolutions, enhancing the overall user experience.
 https://github.com/satvibulgundi15/responsive-property-listing/blob/main/properties.png
 https://github.com/satvibulgundi15/responsive-property-listing/blob/main/ui%20(2).png
-
+https://github.com/satvibulgundi15/responsive-property-listing/blob/main/ui.png
 
 
