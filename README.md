@@ -101,5 +101,5 @@ Updating the displayed listings based on the filtered results.
 style.css: This stylesheet defines the visual presentation of your application. It includes:
 Bootstrap Integration: Leverages Bootstrap's grid system for responsive layout management, ensuring the application looks good on various screen sizes.
 Media Queries: Contains additional custom media queries to provide tailored styling for different devices and screen resolutions, enhancing the overall user experience.
-deepika-padukone-as-mastani-wallpaper-preview.jpg
+
 
